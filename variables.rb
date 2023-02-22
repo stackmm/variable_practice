@@ -1,6 +1,6 @@
-first_name = "Steven"
-middle_name = "James"
-last_name = "Stackhouse"
+first_name = "Joe"
+middle_name = "Bob"
+last_name = "Allen"
 
 age = 35
 new_age = 36
@@ -10,3 +10,6 @@ new_amount_money = 2200.00
 
 is_true = true
 is_false = false 
+
+puts "Hello world"
+puts "My age is #{age}"
